@@ -21,11 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: justinhnain
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default #dark
 search: true
 
 # Build settings
 markdown: kramdown
+repository: "justinhnain/justinhnain.github.io"
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -82,7 +83,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/justinhnain"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/justinnain"
