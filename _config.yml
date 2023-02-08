@@ -112,22 +112,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _blog
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 category_archive:
   type: liquid
@@ -135,14 +119,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-#added by me below---------------------
-
-# Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  blog:
-    output: true
-    permalink: /blog/:path/
