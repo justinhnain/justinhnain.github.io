@@ -64,7 +64,7 @@ outro:
 
 {% include feature_row id="feature_row2" %}
 
-{% include outro type="center" %}
+{% include feature_row id="outro" type="center" %}
 
 
 
