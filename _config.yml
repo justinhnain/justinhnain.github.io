@@ -112,6 +112,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
@@ -130,35 +146,3 @@ collections:
   blog:
     output: true
     permalink: /blog/:path/
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: splash
-      sidebar: 
-        nav: "sidebar-sample"
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _blog
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: single
-      author_profile: true
-      share: true
