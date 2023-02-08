@@ -63,6 +63,7 @@ author:
   bio      : "Powering success with data-driven solutions"
   location : "Vancouver, BC"
   email    : "mail@justinnain.com"
+  linkedin : "justinnain"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -79,15 +80,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
