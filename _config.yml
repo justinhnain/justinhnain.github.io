@@ -65,9 +65,6 @@ author:
   email    : "mail@justinnain.com"
   linkedin : "justinnain"
   links:
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
-      url: "https://linkedin.com/justinnain"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/justinhnain"
@@ -83,12 +80,15 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/justinnain"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
