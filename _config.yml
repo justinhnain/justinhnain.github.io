@@ -71,6 +71,10 @@ author:
     # - label: "Email"
     #   icon: "fab fa-fw fa-envelope"
     #   url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://linkedin.com/justinnain"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/justinhnain"
