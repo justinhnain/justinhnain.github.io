@@ -9,11 +9,16 @@ header:
   overlay_image: /assets/images/hans.gif
   actions:
     - label: "Learn More"
-      url: "/terms/"
+      url: "/about/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Data-driven problem-solver with a passion for utilizing insights to drive growth. Expertise in SQL, R, and Python, with a proven track record of delivering results."
+excerpt: |
+  **UBC** graduate with a B.A. in **Mathematics**
+  <br>
+  Expert in data analysis with **R**, Python, SQL, and BI tools.
+  <br>
+  Trained in **applied statistics** & **database management**.
 intro: 
-  - excerpt: 'I’m a social impact-driven data scientist who is passionate about improving business and policy decisions with machine learning, data mining, and predictive analytics. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
+  - excerpt: 'Data-driven problem-solver with a passion for utilizing insights to drive growth. Expertise in SQL, R, and Python, with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
