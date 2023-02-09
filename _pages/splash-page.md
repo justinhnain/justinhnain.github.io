@@ -18,7 +18,7 @@ excerpt: |
   <br>
   Trained in applied statistics & database management
 intro: 
-  - excerpt: 'Data-driven problem-solver with a passion for utilizing insights to drive growth. Expertise in SQL, R, and Python, with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
+  - excerpt: 'I'm a data-driven problem-solver with a passion for utilizing insights to drive growth. My expertise in SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
