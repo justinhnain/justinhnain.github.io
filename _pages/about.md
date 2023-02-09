@@ -7,5 +7,5 @@ I am a recent graduate of the [University of British Columbia](https://www.ubc.c
 
 My passion for data analysis is evident in my internship experience. At [Klue](https://klue.com/), I created an automation software using Python's Selenium library and transformed data with Python (pandas) for use in a machine learning pipeline. I also designed and presented a KPI-related dashboard made with Tableau, which was a collaborative effort. During my time at [Allstar Awards](https://allstarawards.ca/), I automated the transfer of sales and purchase records to a scalable database and used SQL and R to analyze the data, producing transparent and trustworthy reports that influenced business decisions.
 
-I am confident in my ability to use data to drive positive change and am eager to bring my passion for statistics and data analysis to a new opportunity.
+I am confident in my ability to use data to drive positive change and I am eager to bring my passion for statistics and data analysis to a new opportunity.
 

@@ -14,9 +14,9 @@ header:
 excerpt: |
   **UBC** graduate with a B.A. in **Mathematics**
   <br>
-  Expert in data analysis with **R**, Python, SQL, and BI tools.
+  Expert in data analysis with R, SQL, Python, and BI tools
   <br>
-  Trained in **applied statistics** & **database management**.
+  Trained in applied statistics & database management
 intro: 
   - excerpt: 'Data-driven problem-solver with a passion for utilizing insights to drive growth. Expertise in SQL, R, and Python, with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
 feature_row:
