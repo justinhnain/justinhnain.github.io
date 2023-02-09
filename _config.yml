@@ -27,8 +27,8 @@ search: true
 # Build settings
 markdown: kramdown
 repository: "justinhnain/justinhnain.github.io"
-remote_theme: mmistakes/minimal-mistakes
-#theme: "minimal-mistakes-jekyll"
+#remote_theme: mmistakes/minimal-mistakes
+theme: "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -67,10 +67,10 @@ author:
   email    : "mail@justinnain.com"
   linkedin : "justinnain"
   github: "justinhnain"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/justinhnain"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/justinhnain"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
