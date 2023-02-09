@@ -27,7 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 repository: "justinhnain/justinhnain.github.io"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.7.1"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -65,6 +65,7 @@ author:
   location : "Vancouver, BC"
   email    : "mail@justinnain.com"
   linkedin : "justinnain"
+  github: "justinhnain"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -100,7 +101,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
@@ -115,13 +116,20 @@ defaults:
       author_profile: true
    # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
- 
+   # _blog
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
@@ -136,3 +144,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
