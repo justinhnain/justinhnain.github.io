@@ -61,7 +61,7 @@ plugins:
 
 author:
   name     : "Justin Nain"
-  avatar   : "https://avatars.githubusercontent.com/u/78244259?v=4"
+  avatar   : "./assets/images/avatar.jpeg"
   bio      : "Powering success with data-driven solutions"
   location : "Vancouver, BC"
   email    : "mail@justinnain.com"
