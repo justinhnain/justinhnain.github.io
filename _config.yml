@@ -16,9 +16,9 @@
 title: justinnain.com
 email: mail@justinnain.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My personal website where I share my portfolio and background.  I 
+  also maintain a blog where I talk about all things data, programming, data science, 
+  statistics, and mathematics.
 twitter_username: username
 github_username: justinhnain
 minimal_mistakes_skin: default #dark
