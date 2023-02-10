@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 I am a recent graduate of the [University of British Columbia](https://www.ubc.ca/) with a Bachelor of Arts in Mathematics, where I specialized in applied statistics and data analysis. My education has equipped me with the necessary skills to process and interpret complex data to meet business needs. Throughout my studies, I have honed my skills in R, a popular statistical programming language, and other data analysis tools such as SQL and Python.
