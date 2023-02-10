@@ -17,7 +17,7 @@ excerpt: |
   <br>
   Expert in statistical data analysis & database management
 intro: 
-  - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain)."
+  - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain)."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -66,7 +66,7 @@ feature_row2:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 outro: 
-  - excerpt: 'View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
+  - excerpt: 'View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain).'
 author:
   name     : " "
   avatar   : "./assets/images/avatar.jpeg"
