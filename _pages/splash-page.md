@@ -5,20 +5,18 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.65"
+  overlay_filter: "0.685"
   overlay_image: /assets/images/hans.gif
   actions:
     - label: "Learn More"
       url: "/about/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: |
-  **UBC** graduate with a B.A. in **Mathematics**
+  UBC graduate with a B.A. in **Mathematics**
   <br>
-  Expert in data analysis with R, SQL, Python, and BI tools
-  <br>
-  Trained in applied statistics & database management
+  Expert in statistical data analysis & database management
 intro: 
-  - excerpt: "I'm a data-driven problem-solver with a passion for utilizing insights to drive growth. My expertise in SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain)."
+  - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain)."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
