@@ -70,11 +70,11 @@ outro:
 author:
   name     : " "
   avatar   : "./assets/images/avatar.jpeg"
-  bio      : "Powering success with data-driven solutions"
-  location : "Vancouver, BC"
+  bio      : #
+  location : #
   email    : "mail@justinnain.com"
-  linkedin : "justinnain"
-  github: "justinhnain"
+  linkedin : #
+  github: #
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -28,3 +28,14 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+.archive__item:hover {
+
+  .archive__item-teaser {
+    box-shadow: 0 0 10px rgba(#ffffff, 0.25);
+  }
+
+  .archive__item-title {
+    text-decoration: underline;
+  }
+}
