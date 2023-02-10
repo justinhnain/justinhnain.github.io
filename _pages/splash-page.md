@@ -67,7 +67,14 @@ feature_row2:
 #     btn_class: "btn--primary"
 outro: 
   - excerpt: 'View my [portfolio](https://justinnain.com/portfolio/), or [LinkedIn](https://www.linkedin.com/in/justinnain).'
-
+author:
+  name     : " "
+  avatar   : "./assets/images/avatar.jpeg"
+  bio      : "Powering success with data-driven solutions"
+  location : "Vancouver, BC"
+  email    : "mail@justinnain.com"
+  linkedin : "justinnain"
+  github: "justinhnain"
 ---
 
 {% include feature_row id="intro" type="center" %}
