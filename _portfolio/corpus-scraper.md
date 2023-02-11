@@ -10,8 +10,9 @@ sidebar:
 toc: true
 toc_icon: "cog"
 toc_label: "Table of Contents"
-toc_sticky: true
-sidebar_sticky: false
+classes: wide
+#toc_sticky: true
+#sidebar_sticky: false
 ---
 
 ## Overview
