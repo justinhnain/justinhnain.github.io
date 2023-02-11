@@ -109,6 +109,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -116,6 +117,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar_sticky: true      
    # _portfolio
   - scope:
       path: "_portfolio"
@@ -124,6 +126,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      sidebar_sticky: true      
    # _blog
   - scope:
       path: ""
@@ -132,6 +135,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      sidebar_sticky: true     
 
 category_archive:
   type: liquid
