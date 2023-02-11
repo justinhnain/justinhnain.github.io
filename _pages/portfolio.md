@@ -3,7 +3,7 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-classes: wide
+# classes: wide
 ---
 
 {% include base_path %}
