@@ -6,7 +6,6 @@ header:
 share: false
 sidebar:
   - title: "Tools Used"
-    image: assets/images/project-corpus.png
     text: "Python"
 toc: true
 toc_icon: "cog"
