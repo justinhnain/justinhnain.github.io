@@ -1,15 +1,8 @@
 ---
-layout: archive
 title: "Portfolio"
+layout: archive
 permalink: /portfolio/
-author_profile: true
+collection: portfolio
+entries_layout: grid
 classes: wide
 ---
-
-{% include base_path %}
-
-<div class="grid__wrapper">
-  {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
