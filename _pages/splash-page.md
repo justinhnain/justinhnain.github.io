@@ -7,7 +7,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.685"
-  overlay_image: /assets/images/hans.gif
+  overlay_image: /assets/images/hans.jpeg
   actions:
     - label: "Learn More"
       url: "/about/"
