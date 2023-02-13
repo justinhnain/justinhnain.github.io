@@ -5,6 +5,8 @@ header:
   teaser: assets/images/project-corpus.png
 share: false
 sidebar:
+  - title: "Related"
+    text: "[Github Repository](https://github.com/justinhnain/corpus-scraper)"
   - title: "Tools Used"
     text: "Python"
 toc: true
