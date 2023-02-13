@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Portfolio"
     url: "/portfolio"
-  - title: "Blog"
-    url: /posts/
+  # - title: "Blog"
+  #   url: /posts/
 #  - title: "Blog"
 #    url: /categories/
 #  - title: "Tags"
