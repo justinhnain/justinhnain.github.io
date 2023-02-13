@@ -1,6 +1,6 @@
 ---
 title: "Justin Nain"
-layout: single
+layout: splash
 classes: wide
 permalink: /
 # date: 2023-03-23T11:48:41-04:00
@@ -19,11 +19,11 @@ excerpt: |
 intro: 
   - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain)."
 feature_row:
-  - image_path: assets/images/project-corpus.png
-    alt: "Plain GUI of web-scraping program"
-    title: "Corpus Scraper"
-    excerpt: "Produces an excel spreadsheet with results from Pushshift.io's collection of Reddit corpuses, given a regular expression pattern and Subreddit name."
-    url: "/portfolio/corpus-scraper"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -40,6 +40,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: assets/images/project-corpus.png
+    alt: "Plain GUI of web-scraping program"
+    title: "Corpus Scraper"
+    excerpt: "Produces an excel spreadsheet with results from Pushshift.io's collection of Reddit corpuses, given a regular expression pattern and Subreddit name."
+    url: "/portfolio/corpus-scraper"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Placeholder 3"
     title: "Placeholder 3"
@@ -65,14 +72,14 @@ feature_row2:
 #     btn_class: "btn--primary"
 outro: 
   - excerpt: 'View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain).'
-author:
-  name     : " "
-  avatar   : "./assets/images/avatar.jpeg"
-  bio      : #
-  location : #
-  email    : "mail@justinnain.com"
-  linkedin : #
-  github: #
+# author:
+#   name     : " "
+#   avatar   : "./assets/images/avatar.jpeg"
+#   bio      : #
+#   location : #
+#   email    : "mail@justinnain.com"
+#   linkedin : #
+#   github: #
 ---
 
 {% include feature_row id="intro" type="center" %}
