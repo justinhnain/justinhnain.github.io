@@ -7,8 +7,8 @@ share: false
 sidebar:
   - title: "Related Content"
     text: "<ul>
-    <li><a href='https://github.com/justinhnain/td2-sqlite'>Github Repository</a></li>
-    <li><a href='https://colab.research.google.com/drive/1nZgowA33ApEjFH4lrfHTvsvcB-qCcK9k?usp=sharing'>Google Colab Notebook</a></li>
+    <li><a href='https://github.com/justinhnain/td2-sqlite'>GitHub repository</a></li>
+    <li><a href='https://colab.research.google.com/drive/1nZgowA33ApEjFH4lrfHTvsvcB-qCcK9k?usp=sharing'>Google Colab notebook</a></li>
     </ul>"
   - title: "Tools Used"
     text: "Python, SQLite"
@@ -25,7 +25,9 @@ classes: wide
 
 
 ### Purpose & Overview
-This is practice in undertaking a full ETL process, and forming SQL queries.  I pull data from an API, format & clean the data, input the data into an SQLite database, query it with Python's SQLite3 interface, and visually analyse the data using several Python libraries in Google Colaboratory.
+This is practice in undertaking a full ETL process, and forming SQL queries.  
+
+I pull data from an API, format & clean the data, input the data into an SQLite database, query it with Python's SQLite3 interface, and make <u>basic</u> visuals out of the data using several Python libraries in Google Colaboratory.
 
 Each section in the Google Colaboratory notebook showcases command over different SQL features.
 

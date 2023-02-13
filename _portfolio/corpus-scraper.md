@@ -6,7 +6,7 @@ header:
 share: false
 sidebar:
   - title: "Related Content"
-    text: "[Github Repository](https://github.com/justinhnain/corpus-scraper)"
+    text: "[GitHub repository](https://github.com/justinhnain/corpus-scraper)"
   - title: "Tools Used"
     text: "Python"
 toc: true

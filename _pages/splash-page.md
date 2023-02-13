@@ -47,11 +47,11 @@ feature_row2:
     url: "/portfolio/corpus-scraper"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Placeholder 3"
-    title: "Placeholder 3"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting'
-    url: "#test-link"
+  - image_path: /assets/images/er-diagram.png
+    alt: "Simple ER diagram of three tables"
+    title: "SQL with TD 2"
+    excerpt: 'Demonstrates pulling hierarchical API data, before designing a database out of that data.'
+    url: "/portfolio/td2-sqlite"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 # feature_row3:
