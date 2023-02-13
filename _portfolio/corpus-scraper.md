@@ -5,7 +5,7 @@ header:
   teaser: assets/images/project-corpus.png
 share: false
 sidebar:
-  - title: "Related Content"
+  - title: "Links"
     text: "[GitHub repository](https://github.com/justinhnain/corpus-scraper)"
   - title: "Tools Used"
     text: "Python"
@@ -16,6 +16,9 @@ classes: wide
 #toc_sticky: true
 #sidebar_sticky: false
 ---
+
+<p float="center">
+<img alt="Plain GUI of web-scraping program" src="https://user-images.githubusercontent.com/78244259/116949520-512cc780-ac37-11eb-9924-e613244b5ffe.png" width="75%" /></p>
 
 ## Overview
 Produces an excel spreadsheet with results from Pushshift.io's collection of Reddit corpuses, given a regular expression pattern and subreddit name.  I've limited this program to R/UBC, R/Cornell and R/Simonfraser.  Utterances are loaded in segments defined by the user because of computational resource limitations (the 650,000 and 1,000,000 in the image).

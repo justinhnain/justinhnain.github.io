@@ -5,7 +5,7 @@ header:
   teaser: assets/images/er-diagram.png
 share: false
 sidebar:
-  - title: "Related Content"
+  - title: "Links"
     text: "<ul>
     <li><a href='https://github.com/justinhnain/td2-sqlite'>GitHub repository</a></li>
     <li><a href='https://colab.research.google.com/drive/1nZgowA33ApEjFH4lrfHTvsvcB-qCcK9k?usp=sharing'>Google Colab notebook</a></li>
