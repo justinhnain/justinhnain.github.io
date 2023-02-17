@@ -18,27 +18,27 @@ excerpt: |
   Expert in statistical data analysis & database management
 intro: 
   - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain)."
-feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_row:
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder 1"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder 1"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+#     title: "Placeholder 2"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/project-corpus.png
     alt: "Plain GUI of web-scraping program"
@@ -84,7 +84,7 @@ outro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
 {% include feature_row id="feature_row2" %}
 
