@@ -15,7 +15,7 @@ header:
 excerpt: |
   UBC graduate with a B.A. in **Mathematics**
   <br>
-  Expert in statistical data analysis & database management
+  Statistical data analysis & database management enthusiast
 intro: 
   - excerpt: "I'm a data-driven problem-solver with the skills to identify insights that drive growth. My command over SQL, R, and Python comes with a proven track record of delivering results. Interested? View my [portfolio](https://justinnain.com/portfolio/) or [LinkedIn](https://www.linkedin.com/in/justinnain)."
 # feature_row:
