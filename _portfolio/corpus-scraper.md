@@ -32,7 +32,7 @@ Produces an excel spreadsheet with results from Pushshift.io's collection of Red
 There don't seem to be too many handsome people at UBC :(
 
 ## Purpose
-I created this for a group project in an English Grammar course at UBC (ENGL 321, taught by Dr. Elise Stickles), where we were investigating modern usages of some English expressions.   A gui was necessary for it to be user-friendly.  The corpuses provided to the class weren't up to date with the latest modern expressions: particularly, my group had selected to investigate the usage of emoji expressions in English utterances, so a very modern corpus was necessary.  The group desired Excel spreadsheet outputs because of the various data-analysis functions that Excel supports.
+I created this for a group project in an English grammar course at UBC (ENGL 321, taught by Dr. Elise Stickles), where we were investigating modern usages of some English expressions.   A gui was necessary for it to be user-friendly.  The corpuses provided to the class weren't up to date with the latest modern expressions: particularly, my group had selected to investigate the usage of emoji expressions in English utterances, so a very modern corpus was necessary.  The group desired Excel spreadsheet outputs because of the various data-analysis functions that Excel supports.
 
 ## Usage Note 
 Any index shifts will require loading a new corpus instance.  Therefore, if I had loaded utterances 0 through 100,000, then to load the next 500,000 utterances of the corpus, I would have to change Start Index to 100,001 and End Index to 600,000, and then select the corpus on the top bar.
